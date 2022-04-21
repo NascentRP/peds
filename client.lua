@@ -1,3 +1,7 @@
+Citizen.CreateThread(function()
+    DecorRegister("ScriptedPed", false)
+end)
+
 function spawnPed(model, v, withTask)
 	modelHash = GetHashKey(model)
 	RequestModel(modelHash)
