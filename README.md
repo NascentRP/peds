@@ -11,3 +11,6 @@ PEDs was made to spawn peds in the easiest way possible. Including setting a Sce
   * X, Y, Z, Heading
 * SCENARIO_NAME String [Optional]
   * https://pastebin.com/6mrYTdQv
+
+# NOTES
+You can do a check on any ped to see if they were spawned by this script by checking the DecorBool "ScriptedPed"
